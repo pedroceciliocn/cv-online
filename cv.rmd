@@ -54,7 +54,7 @@ datadrivencv::build_network_logo(CV$entries_data)
 
 ```{r}
 if(params$pdf_mode){
-  cat("View this CV online with links at _https://pedroccneto.netlify.app/cv/_")
+  cat("View this CV online with links at https://pedroccneto.netlify.app/media/cv.html")
 } else {
   cat("[<i class='fas fa-download'></i> Download a PDF of this CV](https://github.com/pedroceciliocn/cv-online/cv.pdf)")
 }
