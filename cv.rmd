@@ -62,10 +62,21 @@ if(params$pdf_mode){
 
 Contact {#contact}
 --------------------------------------------------------------------------------
+- <i class="fa fa-envelope"></i> pedroceciliocn@gmail.com
 
-```{r}
-CV %>% print_contact_info()
-```
+- <i class="fa fa-twitter"></i> [Twitter: `@`pedroissoai](https://twitter.com/pedroissoai)
+
+- <i class="fa fa-github"></i> [GitHub: pedroceciliocn](https://github.com/pedroceciliocn)
+
+- <i class="fa fa-linkedin"></i> [LinkedIn: pedroceciliocn](https://br.linkedin.com/in/pedroceciliocn) 
+- <i class="fa fa-home"></i> [pedroccneto.netfly.app](https://pedroccneto.netlify.app/)
+
+<!-- Contact {#contact} -->
+<!-- -------------------------------------------------------------------------------- -->
+
+<!-- ```{r} -->
+<!-- CV %>% print_contact_info() -->
+<!-- ``` -->
 
 
 
