@@ -134,11 +134,11 @@ CV %<>% print_section('education')
 <!-- Working Experience {data-icon=suitcase} -->
 <!-- -------------------------------------------------------------------------------- -->
 
-<!-- <!-- ::: aside --> -->
-<!-- <!-- ```{r} --> -->
-<!-- <!-- CV %<>% print_text_block('working_experience_aside') --> -->
-<!-- <!-- ``` --> -->
-<!-- <!-- ::: --> -->
+<!-- <!-- ::: aside --> 
+<!-- <!-- ```{r} --> 
+<!-- <!-- CV %<>% print_text_block('working_experience_aside') --> 
+<!-- <!-- ``` --> 
+<!-- <!-- ::: --> 
 
 <!-- ```{r} -->
 <!-- CV %<>% print_section('working_positions') -->
@@ -178,7 +178,6 @@ CV %<>% print_section('data_science_courses')
 ```
 
 
-
 <!-- Selected Press (About)  {data-icon=newspaper} -->
 <!-- -------------------------------------------------------------------------------- -->
 
@@ -187,8 +186,8 @@ CV %<>% print_section('data_science_courses')
 <!-- ``` -->
 
 
-<br>
-<br>
+<!-- <br> -->
+<!-- <br> -->
 
 
 <!-- Selected Press (By)  {data-icon=newspaper} -->
@@ -206,8 +205,6 @@ CV %<>% print_section('data_science_courses')
 <!-- ```{r} -->
 <!-- CV %<>% print_section('academic_articles') -->
 <!-- ``` -->
-
-
 
 ```{r}
 CV %<>% print_links()
