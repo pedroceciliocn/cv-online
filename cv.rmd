@@ -131,18 +131,18 @@ CV %<>% print_section('education')
 
 
 
-Working Experience {data-icon=suitcase}
---------------------------------------------------------------------------------
+<!-- Working Experience {data-icon=suitcase} -->
+<!-- -------------------------------------------------------------------------------- -->
 
-<!-- ::: aside -->
+<!-- <!-- ::: aside --> -->
+<!-- <!-- ```{r} --> -->
+<!-- <!-- CV %<>% print_text_block('working_experience_aside') --> -->
+<!-- <!-- ``` --> -->
+<!-- <!-- ::: --> -->
+
 <!-- ```{r} -->
-<!-- CV %<>% print_text_block('working_experience_aside') -->
+<!-- CV %<>% print_section('working_positions') -->
 <!-- ``` -->
-<!-- ::: -->
-
-```{r}
-CV %<>% print_section('working_positions')
-```
 
 <!-- These breaks just force a new page so section doesnt get cut off -->
 <br>
