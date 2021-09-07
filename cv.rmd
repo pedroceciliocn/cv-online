@@ -164,7 +164,7 @@ CV %<>% print_section('teaching_positions')
 
 
 
-Data Science Courses Done {data-icon=chart-line}
+Courses Done {data-icon=chart-line}
 --------------------------------------------------------------------------------
 
 ::: aside
